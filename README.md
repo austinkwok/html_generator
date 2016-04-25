@@ -1,3 +1,2 @@
 # html_generator
-New project
-Test pushaaaa
+This Java project reads microsoft excel sheets.
